@@ -1,0 +1,16 @@
+{
+  "name": "1st-quote.a.day",
+  "version": "1.0.0",
+  "description": "First Quote a Day",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajiv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
